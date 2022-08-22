@@ -18,12 +18,29 @@ body {
     justify-content: center;
     background: white;
 }
-.inputs input [type="text"] {
+.inputs input[type="text"] {
     height: 3.5rem;
     width: 20rem;
     background: black;
     font-size: 1.1rem;
     font-weight: bold;
     background: transparent;
+    border: 2px solid black;
+     border-radius: 2px;
+     margin-right: 4px;
+     padding: 10px;
+}
+.inputs input[type="submit"]{
+    height: 3.2rem;
+    width: 5.5rem;
+    background: white;
+    font-weight: bold;
+    color: black;
+    font-size: 1rem;
+    margin-top: 25px;
+    border: none;
+    border-radius: 2px;
+
+
 
 }
