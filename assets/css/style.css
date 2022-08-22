@@ -18,3 +18,12 @@ body {
     justify-content: center;
     background: white;
 }
+.inputs input [type="text"] {
+    height: 3.5rem;
+    width: 20rem;
+    background: black;
+    font-size: 1.1rem;
+    font-weight: bold;
+    background: transparent;
+
+}
